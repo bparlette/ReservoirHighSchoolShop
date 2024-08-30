@@ -1,0 +1,71 @@
+[
+  {
+    "id": "1",
+    "name": "T-Shirt",
+    "description": "A cool cotton t-shirt.",
+    "sizes": {
+      "S": 10,
+      "M": 15,
+      "L": 8,
+      "XL": 5
+    },
+    "images": [
+      "image101.jpg",
+      "image102.jpg"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Hoodie",
+    "description": "A cozy fleece hoodie.",
+    "sizes": {
+      "S": 5,
+      "M": 10,
+      "L": 12,
+      "XL": 3
+    },
+    "images": [
+      "image201.jpg",
+      "image202.jpg"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Hoodie B",
+    "description": "A cozy fleece hoodie.",
+    "sizes": {      
+      "XL": 3
+    },
+    "images": [
+      "image201.jpg",
+      "image202.jpg"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Hoodie C",
+    "description": "A cozy fleece hoodie.",
+    "sizes": {
+      "S": 5,
+      "M": 10,
+      "L": 12
+    },
+    "images": [
+      "image201.jpg",
+      "image202.jpg"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Hoodie D",
+    "description": "A cozy fleece hoodie.",
+    "sizes": {
+      "S": 5,
+      "XL": 3
+    },
+    "images": [
+      "image201.jpg",
+      "image202.jpg"
+    ]
+  }
+]
